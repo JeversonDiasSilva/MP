@@ -1,4 +1,3 @@
-Aqui está uma proposta de README.md profissional e detalhada, estruturada para que qualquer pessoa (ou analista de suporte) entenda a finalidade técnica do seu sistema e como configurá-lo corretamente.
 
 🕹️ Retro-Pix Vending System
 O Retro-Pix Vending é uma solução de automação em Python desenvolvida para integrar pagamentos via Pix (Mercado Pago) em sistemas de máquinas de jogos (Arcades/Vending Machines) baseados em Linux.
